@@ -1,12 +1,7 @@
 # Welcome to My GitHub!
 
-## 👋 Basic Information
+## 👋 About Me
 Hi! I'm [Michael Roberts](https://github.com/devmikeroberts). I'm a software developer with a passion for coding, learning new technologies, and solving challenging problems. Here, you’ll find some of my projects, collaborations, and contributions.
-
-## 🎓 Academic Experience
-
-### [Emory University](https://emory.edu)
-*Degree: Bachelor's in Computer Science*
 
 #### Current Learning:
 - **Artificial Intelligence**: Delving into the world of AI and its real-world applications.
@@ -44,7 +39,6 @@ Thanks for visiting my profile! Feel free to reach out if you want to collaborat
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmikeroberts&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmikeroberts&layout=compact&theme=radical)
 
 
 <!--
