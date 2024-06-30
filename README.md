@@ -1,7 +1,5 @@
 # Welcome to My GitHub!
 
-![Profile Image](https://github.com/devmikeroberts.png)
-
 ## 👋 Basic Information
 Hi! I'm [Michael Roberts](https://github.com/devmikeroberts). I'm a software developer with a passion for coding, learning new technologies, and solving challenging problems. Here, you’ll find some of my projects, collaborations, and contributions.
 
