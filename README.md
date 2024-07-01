@@ -37,10 +37,6 @@ Hi! I'm [Michael Roberts](https://github.com/devmikeroberts). I'm a software dev
 
 Thanks for visiting my profile! Feel free to reach out if you want to collaborate on a project or just have a chat about technology.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmikeroberts&show_icons=true&theme=radical)
-
-
-
 <!--
 **DevMikeRoberts/devmikeroberts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
