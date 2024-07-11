@@ -5,8 +5,7 @@ Hi! I'm [Michael Roberts](https://github.com/devmikeroberts). I'm a software dev
 
 #### Current Learning:
 - **Artificial Intelligence**: Delving into the world of AI and its real-world applications.
-- **Cybersecurity**: Understanding the principles of protecting systems and data from cyber threats.
-- **Cloud Computing**: Exploring the architecture and deployment of scalable cloud services.
+- **Web Dev**: NextJS and Fullstack Developmnent. Implementation of CI/CD Pipelines.
 
 ## 🌟 Interests
 
