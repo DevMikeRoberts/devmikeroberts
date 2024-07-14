@@ -4,7 +4,7 @@
 Hi! I'm [Michael Roberts](https://github.com/devmikeroberts). I'm a software developer with a passion for coding, learning new technologies, and solving challenging problems. Here, you’ll find some of my projects, collaborations, and contributions.
 
 #### Current Learning:
-- **Artificial Intelligence**: Delving into the world of AI and its real-world applications.
+- **LLMs**: Delving into the world of AI and its real-world applications.
 - **Web Dev**: NextJS and Fullstack Developmnent. Implementation of CI/CD Pipelines.
 
 ## 🌟 Interests
@@ -27,6 +27,8 @@ Hi! I'm [Michael Roberts](https://github.com/devmikeroberts). I'm a software dev
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white)
+
+-**Fun Fact:** My favorite game is Halo 3!
 
 ## 🔗 Connect with Me
 
