@@ -11,7 +11,6 @@ I like solving puzzles and building things that build things.
  Python •  AWS •  Terraform •  Kubernetes •  Docker • PostgreSQL • Go • Vector Databases 
  
 ### Beyond the Command line...
-- ⛳ Golf
 - 🎮 Halo 3 enthusiast
 - 📚 Constantly learning
 - 🏗️ Forever building
