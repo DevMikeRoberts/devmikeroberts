@@ -1,4 +1,4 @@
-#### Hey, I'm Michael.
+### Hey, I'm Michael.
 I like solving puzzles and building things that build things.
 
 #### Right now...
@@ -7,7 +7,7 @@ I like solving puzzles and building things that build things.
 #### What I Reach For...
  Python •  AWS •  Terraform •  Kubernetes •  Docker • PostgreSQL • Go • Vector Databases • CUDA 
  
-### Beyond the Command line...
+#### Beyond the Command line...
 - 🎮 Halo 3 enthusiast
 - 📚 Constantly learning
 - 🏗️ Forever building
