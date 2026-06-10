@@ -2,13 +2,10 @@
 I like solving puzzles and building things that build things.
 
 #### Right now...
-- 🤖 Autonomous LLM agents & multi-agent orchestration
-- ☁️ Cloud-native platforms with AWS, Kubernetes, and Terraform
-- 🧠 Applied AI, RAG systems, and custom model training
-- ⚡ Developer tools that automate away complexity
+ I'm diving deep on ML/AI and deep-learning to build intelligent systems. Probably building atm... 🤖 
 
 #### What I Reach For...
- Python •  AWS •  Terraform •  Kubernetes •  Docker • PostgreSQL • Go • Vector Databases 
+ Python •  AWS •  Terraform •  Kubernetes •  Docker • PostgreSQL • Go • Vector Databases • CUDA 
  
 ### Beyond the Command line...
 - 🎮 Halo 3 enthusiast
